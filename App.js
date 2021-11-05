@@ -19,7 +19,8 @@ import {
 
 import {Colors, Header} from 'react-native/Libraries/NewAppScreen';
 
-import 'cbor-rn-prereqs';
+// require('cbor-rn-prereqs')
+import 'cbor-rn-prereqs'; // makes no difference if required or imported
 const cbor = require('cbor');
 
 const Section = ({children, title}) => {
