@@ -10,8 +10,8 @@
     "lint": "eslint ."
   },
   "dependencies": {
-    "cbor": "^8.0.2",
-    "cbor-rn-prereqs": "^8.0.2",
+    "cbor": "^8.1.0",
+    "cbor-rn-prereqs": "^8.1.0",
     "react": "17.0.1",
     "react-native": "0.64.2"
   },
